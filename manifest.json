@@ -1,8 +1,8 @@
 {
-	"name": "Simple PWA",
-	"short_name": "Simple PWA",
+	"name": "RickRoll2222",
+	"short_name": "RickRoll2222",
 	"display": "standalone",
-	"start_url": "./?utm_source=pwa_install",
+	"start_url": "./?utm_source=pwainstall",
 	"scope": ".",
 	"theme_color": "#000",
 	"background_color": "#000",
